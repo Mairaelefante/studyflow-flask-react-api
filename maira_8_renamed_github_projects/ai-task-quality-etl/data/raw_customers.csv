@@ -1,0 +1,9 @@
+Customer ID, Full Name ,Age,Country,Signup Date,Plan,Monthly Spend,Last Login,Support Tickets
+1,Anna Rossi,24,italy,2025/01/12,basic,12.99,2025-05-01,1
+2,John Smith,31,USA,01-20-2025,Premium,29.99,2025-05-03,0
+3, Maria Garcia,,Spain,2025-02-02,premium,29.99,,2
+4,Anna Rossi,24,italy,2025/01/12,basic,12.99,2025-05-01,1
+5,Luca Bianchi,45,ITALY,2025-03-15,enterprise,99.99,2025-04-29,5
+6,Sara Lee,28,United States,2025-03-18,BASIC,,2025-05-02,0
+7,Tom Novak,37,Czechia,2025-04-01,premium,29.99,2025-04-30,
+8,Elena Petrova,52,,2025-04-07,basic,12.99,2025-04-28,3

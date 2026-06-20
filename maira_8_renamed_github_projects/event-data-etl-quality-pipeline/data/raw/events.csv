@@ -1,0 +1,11 @@
+event_id,event_time,user_id,event_type,value,source
+1,2026-01-01 10:00:00,U001,page_view,,web
+2,2026-01-01 10:02:00,U001,signup,1,web
+3,2026-01-01 10:05:00,U002,page_view,,mobile
+4,2026-01-01 10:10:00,U003,purchase,59.99,web
+5,2026-01-01 10:12:00,U002,purchase,19.99,mobile
+6,2026-01-01 10:20:00,U004,page_view,,partner
+7,2026-01-01 10:25:00,U004,signup,1,partner
+8,2026-01-01 10:28:00,U005,purchase,120.00,web
+9,2026-01-01 10:30:00,,page_view,,web
+10,bad_timestamp,U006,purchase,42.00,mobile
